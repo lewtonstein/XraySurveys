@@ -1,3 +1,3 @@
 # XraySurvey
 
-https://lewtonstein.github.io/XraySurvey/
+https://lewtonstein.github.io/XraySurveys/
