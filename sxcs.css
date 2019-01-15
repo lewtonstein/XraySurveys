@@ -20,7 +20,7 @@ q:before, q:after{content:"";}blockquote, q{quotes:"" "";}body{font-family:"Helv
 #nav ul li.current_page_ancestor > a,
 #nav ul li.current-cat > a,
 #nav ul li.current-menu-ancestor > a,
-#nav ul li.current-menu-item > a{background:#f6f6f6;color:#bbb;}#blurb{font-family:Georgia, serif;height:auto;border-bottom:1px dotted #ccc;width:100%;float:left;padding:35px 0;font-size:32px;font-weight:400;line-height:120%;}.content{width:720px/*lewton,content width*/;float:left;border-right:1px dotted #ccc;padding:0 0 30px 0;min-height:420px;overflow:hidden;}.hentry{padding:0 30px 0 0;}.hentry p{margin:14px 0 14px 0;}.hentry em{font-style:italic;}.hentry h2{font-family:Georgia, serif;font-size:24px;margin:25px 0 10px 0;font-weight:normal;}.hentry h1,
+#nav ul li.current-menu-item > a{background:#f6f6f6;color:#bbb;}#blurb{font-family:Georgia, serif;height:auto;border-bottom:1px dotted #ccc;width:100%;float:left;padding:35px 0;font-size:32px;font-weight:400;line-height:120%;}.content{width:720px/*lewton,content width*/;float:left;border-right:1px dotted #ccc;padding:0 0 30px 0;min-height:420px;overflow:hidden;}.hentry{padding:0 30px 0 0;}.hentry p{margin:14px 0 14px 0;}.hentry em{font-style:italic;}.hentry h2{font-family:Georgia, serif;font-size:18px;margin:25px 0 10px 0;font-weight:normal;color:#ca1eff/*lewton h2 of content*/}.hentry h1,
 .hentry h1 a,
 div.attachment h1,
 div.attachment h1 a{font-family:Georgia, serif;font-size:24px;text-align:left;color:#ca1e00;/*lewton h1 of content*/;margin:30px 0 10px 0;font-weight:normal;line-height:32px;}.hentry h3,
